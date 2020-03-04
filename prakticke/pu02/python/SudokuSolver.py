@@ -2,7 +2,7 @@ import os
 
 import os.path
 import sys
-sys.path[0:0] = [os.path.join(sys.path[0], '../../examples/sat')]
+sys.path[0:0] = [os.path.join(sys.path[0], '../../../examples/sat')]
 
 import sat
 
